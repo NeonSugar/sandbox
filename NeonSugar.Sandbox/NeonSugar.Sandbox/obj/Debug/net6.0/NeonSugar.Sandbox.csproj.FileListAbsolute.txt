@@ -1,0 +1,12 @@
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\bin\Debug\net6.0\NeonSugar.Sandbox.deps.json
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\bin\Debug\net6.0\NeonSugar.Sandbox.dll
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\bin\Debug\net6.0\NeonSugar.Sandbox.pdb
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\obj\Debug\net6.0\NeonSugar.Sandbox.csproj.AssemblyReference.cache
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\obj\Debug\net6.0\NeonSugar.Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\obj\Debug\net6.0\NeonSugar.Sandbox.AssemblyInfoInputs.cache
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\obj\Debug\net6.0\NeonSugar.Sandbox.AssemblyInfo.cs
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\obj\Debug\net6.0\NeonSugar.Sandbox.csproj.CoreCompileInputs.cache
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\obj\Debug\net6.0\NeonSugar.Sandbox.dll
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\obj\Debug\net6.0\refint\NeonSugar.Sandbox.dll
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\obj\Debug\net6.0\NeonSugar.Sandbox.pdb
+C:\GitHub\sandbox\NeonSugar.Sandbox\NeonSugar.Sandbox\obj\Debug\net6.0\ref\NeonSugar.Sandbox.dll
